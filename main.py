@@ -1,7 +1,7 @@
 # Author: Xiangting Li xzl5423@psu.edu
 # Collaborator: Jiahui Lan jzl6335@psu.edu
-# collaborator: Ivy Qi ijq5005@psu.edu
-# collaborator: Josiah Edward Harrison jeh6043@psu.edu
+# collaborator: Thomas Huggett tfh5238@psu.edu
+# collaborator: Abdullahn Nadeem azn5413@psu.edu
 
 temperature = input("Enter temperature: ")
 
